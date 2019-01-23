@@ -5,3 +5,4 @@ today is 2019-01-18.
 Friday.
 Creating a new branch by master or feature.
 No fast forward.
+Repair bug.
